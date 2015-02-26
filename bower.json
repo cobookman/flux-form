@@ -1,0 +1,32 @@
+{
+  "name": "flux-form",
+  "version": "1.0.0",
+  "homepage": "https://github.com/cobookman/flux-form",
+  "authors": [
+    "Colin Bookman <cobookman@gmail.com>"
+  ],
+  "description": "A flux store backed form with nice abstractions",
+  "main": "index.js",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "flux",
+    "react",
+    "form"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "events": "~1.0.0",
+    "flux": "~2.0.2",
+    "lodash": "~3.3.1",
+    "react": "~0.12.2"
+  }
+}
